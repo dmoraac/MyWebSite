@@ -106,11 +106,11 @@ function translateToEnglish(){
 }
 
 function downloadCVEnglish(){
-    window.open('/src/documents/CV-Dylan_Mora_Acuna_(En).pdf', '_blank');
+    window.open('src/documents/CV-Dylan_Mora_Acuna_(En).pdf', '_blank');
 }
 
 function downloadCVSpanish(){
-    window.open('/src/documents/CV-Dylan_Mora_Acuna.pdf', '_blank');
+    window.open('src/documents/CV-Dylan_Mora_Acuna.pdf', '_blank');
 }
 
 // Automatic Copyright Year Update
