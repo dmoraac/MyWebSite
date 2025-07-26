@@ -106,7 +106,7 @@ function translateToEnglish(){
 }
 
 function downloadCVEnglish(){
-    window.open('/src/documents/EN_CV-Dylan_Mora_Acuna.pdf', '_blank');
+    window.open('/src/documents/CV-Dylan_Mora_Acuna_(En).pdf', '_blank');
 }
 
 function downloadCVSpanish(){
